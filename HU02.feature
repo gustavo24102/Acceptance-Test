@@ -1,4 +1,5 @@
-Feature: Configuración de intereses emocionales
+Feature: Inicio de sesion de usuario
+
 Como usuario frecuente, 
 quiero poder iniciar sesión de forma rápida y segura, 
 para poder acceder de inmediato a la aplicación 
